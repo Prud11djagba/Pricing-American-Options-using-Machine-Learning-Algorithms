@@ -16,3 +16,7 @@ The GRU model outperformed the LSTM model across all evaluated metrics, demonstr
 absolute error, mean squared error, and root mean squared error, along with greater stability and efficiency
 in training.
 This project is jointly done with Callixte Ndizihiwe.
+
+
+The data source used in this experimental investigation is a collection of historical data on all symbols in the
+U.S equities markets from January to June 2013 (https://optiondata.org).
